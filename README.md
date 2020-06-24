@@ -28,7 +28,7 @@ ___
    
    ``` cd handson-watson-assistant```
 
-3. Abra o arquivo da [página FIAP](./graduacao-fiap.html) integrada ao assistente no seu navegador.
+3. Abra o arquivo <./graduacao-fiap.html> no seu navegador.
 
 4. Pronto! Só testar ;) 
      
